@@ -101,3 +101,4 @@ Um jogo de corrida de karts arcade para 2 jogadores locais, com uma mecânica ú
 3. **Mecânica única** - Implementar a detecção de batida traseira e o sistema de estados (`Normal`/`Girando`), testando com diversos ângulos para garantir que a posição e rotação sejam salvas e restauradas corretamente.
 4. **Sistema de corridas** - Implementar o sistema de voltas, seleção de 3 a 7 voltas e a condição de vitória.
 5. **Testes e balanceamento** - Testar com partidas reais (entre duas pessoas) e balancear a força do empurrão das colisões laterais, assim ajustando o caos da corrida ao seu agrado!
+file:///tmp/guest-bb6zjy/kartex.html
